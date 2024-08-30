@@ -1,1 +1,35 @@
+Descrição do Projeto
+Durante o estágio, eu coletei e organizei dados sobre os times no ranking top 20 HLTV em um DataFrame. Utilizei o Google Colab(Python) para a criação e manipulação da planilha, e o Power BI para gerar gráficos e visualizar os dados de maneira eficaz.
 
+Ferramentas Utilizadas
+Google Colab(Python): Para montar e processar a planilha com os dados dos times.
+Power BI: Para criar gráficos e visualizações detalhadas dos dados analisados.
+
+Resultados
+A análise foi apresentada à equipe, destacando gráficos e insights relevantes sobre os dados dos times. A apresentação incluiu:
+Gráficos: Representações visuais das estatísticas e tendências dos times.
+Insights: Observações e conclusões baseadas na análise dos dados.
+
+Arquivos
+DATAFRAMECS.ipynb: O arquivo contendo os códigos em Python.
+DATAFRAME_CS2_EXCEL.xlsx: Planilha de dados.
+DF_CS2_POWERBI.pbix: O arquivo contendo os gráficos feitos em PowerBI.
+
+**ENGLISH VERSION**
+
+Project Description
+During my internship, I collected and organized data on the top 20 HLTV teams into a DataFrame. I used Google Colab (Python) to create and manipulate the spreadsheet, and Power BI to generate graphs and effectively visualize the data.
+
+Tools Used
+Google Colab (Python): For creating and processing the spreadsheet with team data.
+Power BI: For creating detailed graphs and visualizations of the analyzed data.
+
+Results
+The analysis was presented to the team, highlighting relevant graphs and insights about the team data. The presentation included:
+Graphs: Visual representations of team statistics and trends.
+Insights: Observations and conclusions based on the data analysis.
+
+Files
+DATAFRAMECS.ipynb: The file containing the Python code.
+DATAFRAME_CS2_EXCEL.xlsx: The data spreadsheet.
+DF_CS2_POWERBI.pbix: The file containing the graphs created in Power BI.
